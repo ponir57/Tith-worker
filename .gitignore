@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Runtime data (machine-specific — never commit)
+logs/
+stats.json
+macros/*.json
+
+# IDE / editor / tooling
+.vscode/
+.idea/
+.claude/
+*.swp
+*~
+
+# OS
+Thumbs.db
+.DS_Store
